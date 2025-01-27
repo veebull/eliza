@@ -35,7 +35,7 @@ interface Action {
 }
 ```
 
-Source: https://github.com/elizaos/eliza/packages/core/src/types.ts
+Source: [https://github.com/elizaOS/eliza/blob/develop/packages/core/src/types.ts](https://github.com/elizaOS/eliza/blob/872b13e9ab88b61667a36fb270a8a216602224ee/packages/core/src/types.ts#L436)
 
 ---
 
